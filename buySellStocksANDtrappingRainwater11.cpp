@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>                         //BUY AND SELL STOCKS
 using namespace std;
 
 void maxProfit(int *prices,int n){
@@ -23,3 +23,4 @@ int main(){
     maxProfit(prices,n);
     return 0;
 }
+
