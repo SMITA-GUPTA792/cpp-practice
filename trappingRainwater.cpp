@@ -29,4 +29,5 @@ int main(){
     int n=sizeof(heights)/sizeof(int);
     trap(heights,n);
 return 0;
+
 }
